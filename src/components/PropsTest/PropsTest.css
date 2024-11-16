@@ -1,0 +1,10 @@
+div.cardsHolder {
+  display: flex;
+  flex-direction: row;
+  width: ;
+}
+
+div.contentHolder {
+  display: flex;
+  flex-direction: column;
+}
