@@ -1,0 +1,9 @@
+div.CardHolder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px black;
+  width: 200px;
+  height: 300px;
+}
